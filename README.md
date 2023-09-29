@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @VinceDruyts
+- 👀 I’m interested in ICT and Electronics, but mostly in ICT systems and how to secure them. Be sure to check on the projects I made so far!
